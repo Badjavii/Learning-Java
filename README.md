@@ -29,6 +29,48 @@
     </ol>
 </div>
 
+<!--! Tools to Program in Java for Free !-->
+
+<h2 align="center">Tools to Program in Java for Free</h2>
+
+<div style="text-align:justify;">
+    <p>Here are some free Integrated Development Environments (IDEs) you can use to program in Java:</p>
+    <ul>
+        <li>
+            <b>IntelliJ IDEA Community Edition</b>
+            <ul>
+                <li><b>Positive Aspect:</b> Powerful features and intelligent code assistance.</li>
+                <li><b>Negative Aspect:</b> Can be resource-intensive.</li>
+                <li><b>Download:</b> Visit the <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA download page</a> and select the Community Edition.</li>
+            </ul>
+        </li>
+        <li>
+            <b>Apache NetBeans</b>
+            <ul>
+                <li><b>Positive Aspect:</b> Comprehensive support for Java and other languages.</li>
+                <li><b>Negative Aspect:</b> Interface can be less intuitive compared to other IDEs.</li>
+                <li><b>Download:</b> Visit the <a href="https://netbeans.apache.org/download/index.html">Apache NetBeans download page</a>.</li>
+            </ul>
+        </li>
+        <li>
+            <b>Visual Studio Code with Java Extension Pack</b>
+            <ul>
+                <li><b>Positive Aspect:</b> Lightweight and highly customizable.</li>
+                <li><b>Negative Aspect:</b> Requires additional setup for Java development.</li>
+                <li><b>Download:</b> Visit the <a href="https://code.visualstudio.com/">Visual Studio Code download page</a> and install the Java Extension Pack from the Extensions Marketplace.</li>
+            </ul>
+        </li>
+        <li>
+            <b>Eclipse IDE</b>
+            <ul>
+                <li><b>Positive Aspect:</b> Highly extensible with a large community of users.</li>
+                <li><b>Negative Aspect:</b> Can be overwhelming for beginners due to its extensive features.</li>
+                <li><b>Download:</b> Visit the <a href="https://www.eclipse.org/downloads/">Eclipse IDE download page</a>.</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
 <!--! What is Java? !-->
 
 <h2 align="center">What is Java?</h2>
