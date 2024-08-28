@@ -4,7 +4,7 @@
 <h2 align="center">A Collaborative Space for Java Enthusiasts</h2>
 
 <p align="center">
-  <img src="https://github.com/Badjavii/Badjavii/blob/main/mariouuuu.gif" width="798" height="246">
+  <img src="https://github.com/Badjavii/Learning-Java/blob/main/code.gif" width="798" height="246">
 </p>
 
 <!--! About This Repository !-->
