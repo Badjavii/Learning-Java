@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.println("Buenos dias, estimado usuario\n");
+        System.out.println("Hello, dear friend\n");
         System.out.println("Ingrese un numero como base: ");
         int base = sc.nextInt();
         System.out.println("Ingrese un numero como exponente: ");

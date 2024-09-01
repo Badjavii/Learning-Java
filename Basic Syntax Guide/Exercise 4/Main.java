@@ -14,8 +14,8 @@ public class Main{
   };
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
-    System.out.println("Estimado Usuario\n");
-    System.out.println("Por favor, indique la cantidad de numeros que quiere que se muestren en la Succesion de Fibonacci:");
+    System.out.println(" Dear Friend\n");
+    System.out.println("Please, indique la cantidad de numeros que quiere que se muestren en la Succesion de Fibonacci:");
     int num = sc.nextInt();
     System.out.print("\nLa succesion de Fibonacci: ");
     Fibonacci(num);
