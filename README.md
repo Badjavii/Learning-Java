@@ -12,7 +12,7 @@
 <h2 align="center">About This Repository</h2>
 
 <div style="text-align:justify;">
-    <p>This repository is created for self-taught Java learners to share and practice exercises. It is maintained by <a href="https://badjavii.github.io/">Badjavii</a> and <a href="https://github.com/LeopoldoRoa08/">LeopoldoRoa08</a>. Our goal is to document our learning journey and collaborate on Java projects.</p>
+    <p>This repository is created for self-taught Java learners to share and practice exercises. It is maintained by <a href="https://github.com/Badjavii">Badjavii</a> and <a href="https://github.com/LeopoldoRoa08/">LeopoldoRoa08</a>. Our goal is to document our learning journey and collaborate on Java projects.</p>
 </div>
 
 <!--! How to Install Java !-->
